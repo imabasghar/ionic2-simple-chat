@@ -1,6 +1,6 @@
-# Ionic2 Web Chat
+# Ionic2 Simple Chat
 
-Simple Chatting Application Demo Project. Following [this](https://www.thepolyglotdeveloper.com/2016/01/creating-a-real-time-chat-application-with-ionic-2-and-socket-io/).
+Simple Chatting Application Project. Following [this](https://www.thepolyglotdeveloper.com/2016/01/creating-a-real-time-chat-application-with-ionic-2-and-socket-io/).
 
 ### Setup Server
 Pre Requisites: Nodejs, CouchBase
